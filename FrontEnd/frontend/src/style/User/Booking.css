@@ -1,0 +1,27 @@
+.text-box3 {
+    position: absolute;
+    bottom: 100px;
+    right: 350px;
+    background-color:lightblue;
+    color: black;
+    width: 700px;
+    height: 500px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 20px 20px 10px darkblue;
+    
+  }
+  .confirmBook{
+    position: fixed;
+    top:300px;
+    left:575px;
+    height: 50px;
+    width:200px
+  }
+  .dashBoard{
+    position: fixed;
+    top:400px;
+    left:575px;
+    height: 50px;
+    width:200px
+  }

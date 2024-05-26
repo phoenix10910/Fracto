@@ -1,0 +1,35 @@
+.booking{
+    position: absolute;
+    bottom: 80px;
+    right: 250px;
+    background-color:lightblue;
+    color: black;
+    width: 900px;
+    height: 500px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 20px 20px 10px darkblue;
+}
+.booking1{
+    position: fixed;
+    top: 80px;
+    right: 650px;
+}
+.book{
+    background-color: transparent;
+}
+.book1{
+    position: fixed;
+    margin-top: -500px;
+    margin-left: 275px;
+}
+.book2{
+    position: fixed;
+    margin-top: -475px;
+    margin-left: 275px;
+}
+.heading3{
+    position: fixed;
+    margin-top: 200px;
+    margin-left: 700px;
+}

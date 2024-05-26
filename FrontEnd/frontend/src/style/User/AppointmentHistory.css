@@ -1,0 +1,35 @@
+.button{
+    text-align: right;
+    margin-left: 550px;
+    position:fixed;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    background: transparent;
+}
+.navlink{
+    color:black;
+}
+
+.heading2{
+    margin-top: 50px;
+    font-size: xx-large;
+    font-weight: 1000;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 30px;
+}
+.tablecell{
+    background-color: black;
+    color:white
+}
+.tablebodyrow:nth-child(odd)
+{
+    background-color: wheat;
+}
+.tablebodyrow:nth-child(even)
+{
+    background-color: antiquewhite;
+}
+.table3{
+    margin-top: -70px;
+}

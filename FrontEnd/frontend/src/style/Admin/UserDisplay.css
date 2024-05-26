@@ -1,0 +1,8 @@
+.tablebodyrow2:nth-child(odd)
+{
+    background-color: lightcyan;
+}
+.tablebodyrow2:nth-child(even)
+{
+    background-color: lightblue;
+}

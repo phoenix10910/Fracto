@@ -1,0 +1,41 @@
+.datePicker{
+    z-index: 9999 !important;
+    overflow: visible;
+}
+ .tablecell{
+    background-color: black;
+    color:white
+}
+.tablebodyrow:nth-child(odd)
+{
+    background-color: lightcyan;
+}
+.tablebodyrow:nth-child(even)
+{
+    background-color: lightblue;
+}
+.navlink{
+    color:black;
+}
+.button{
+    text-align: right;
+    margin-left: 550px;
+    position:fixed;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    background: transparent;
+}
+.display1{
+    margin-top: -50px;
+}
+.search{
+    position: fixed;
+    margin-left: 1000px;
+    margin-top: 200px;
+}
+.table2{
+    
+    margin-top:40px;
+}
+
